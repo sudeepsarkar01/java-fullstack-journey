@@ -1,5 +1,5 @@
 public class ch3_Q5 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         String letter = "Dear Harry, \n This 'java' course is nice. \n Thanks";
         System.out.println(letter);
     }
