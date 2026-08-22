@@ -1,7 +1,7 @@
 package practice_Questions;
 import java.util.Scanner;
 
-public class practice_Q9 {
+public class practice_Q09 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
