@@ -10,7 +10,7 @@ public class practice_Q15 {
         System.out.print("Enter your gender: ");
         String gender = sc.next();
 
-        if (age >= 18 && gender == "male") {
+        if (age >= 18 && gender.equals("male")) {
             System.out.println("You can drive.");
         } else {
             System.out.println("You can't drive,");
