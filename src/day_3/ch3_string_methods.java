@@ -1,3 +1,5 @@
+package day_3;
+
 public class ch3_string_methods {
     static void main(String[] args) {
         String name = "Harry";

@@ -1,3 +1,5 @@
+package day_4;
+
 import java.util.Scanner;
 
 public class ch4_conditional_statement {

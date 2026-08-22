@@ -1,3 +1,5 @@
+package day_3;
+
 import java.util.Scanner;
 
 public class ch3_Q1 {

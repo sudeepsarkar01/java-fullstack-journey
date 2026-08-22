@@ -1,3 +1,5 @@
+package day_2;
+
 public class ch2_increment_decrement_operator {
     public static void main(String[] args) {
         int x = 7;
