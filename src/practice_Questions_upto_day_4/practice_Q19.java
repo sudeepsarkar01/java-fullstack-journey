@@ -1,0 +1,18 @@
+package practice_Questions_upto_day_4;
+import java.util.Scanner;
+
+public class practice_Q19 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter your user name: ");
+        String user_name = sc.nextLine();
+        System.out.print("Enter your password: ");
+        int password = sc.nextInt();
+        if (user_name.equals("sudeep sarkar") && password == 12345) {
+            System.out.println("Login successful");
+        } else {
+            System.out.println("Login failed");
+        }
+    }
+}
